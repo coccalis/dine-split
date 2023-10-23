@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dine-split/static/css/main.7e60c7e2.css",
+    "main.js": "/dine-split/static/js/main.829667a7.js",
+    "static/media/res_bg.png": "/dine-split/static/media/res_bg.d96e52170e28d3677dd0.png",
+    "index.html": "/dine-split/index.html",
+    "main.7e60c7e2.css.map": "/dine-split/static/css/main.7e60c7e2.css.map",
+    "main.829667a7.js.map": "/dine-split/static/js/main.829667a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e60c7e2.css",
+    "static/js/main.829667a7.js"
+  ]
+}
